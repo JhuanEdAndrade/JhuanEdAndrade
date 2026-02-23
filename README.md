@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jhuan Andrade, tenho 23 anos e sou natural do interior de São Paulo. Atualmente, estou cursando Ciência da Computação no Centro Universitário Descomplica Uniamérica. Sou apaixonado por tecnologia, atualmente trabalhando no back-end com Java.
+Me chamo Jhuan Andrade, tenho 24 anos e sou natural do interior de São Paulo. Atualmente, estou cursando Ciência da Computação no Centro Universitário Descomplica Uniamérica. Sou apaixonado por tecnologia, atualmente trabalhando no back-end com Java.
 
 <p align="left">
     <a href="https://github.com/JhuanEdAndrade?tab=repositories&sort=stargazers">
